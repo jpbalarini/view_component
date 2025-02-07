@@ -21,6 +21,10 @@ nav_order: 5
 * Add ruby 3.4 support to CI.
 
     *Reegan Viljoen*
+  
+* Add HomeStyler AI to the list of companies using ViewComponent.
+
+    *JP Balarini*
 
 ## 3.21.0
 
